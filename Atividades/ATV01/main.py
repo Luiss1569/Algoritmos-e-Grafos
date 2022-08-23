@@ -2,6 +2,8 @@ import sys
 import metodos as mt
 import numpy as np
 
+# Luis Ricardo Albano Santos - 2021031844
+
 if __name__ == '__main__':
     # A loop that iterates over the files passed as arguments to the program.
     for file in sys.argv[1:]:

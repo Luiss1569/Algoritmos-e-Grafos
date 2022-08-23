@@ -1,5 +1,7 @@
 import numpy as np
 
+# Luis Ricardo Albano Santos - 2021031844
+
 """
     > The function takes in two arguments, a file name and content, and writes the
     content to the file
