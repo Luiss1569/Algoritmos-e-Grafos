@@ -1,0 +1,68 @@
+exemplo True 0 0.429 
+exemplo True 0 0.429 
+exemplo True 0 0.429 
+exemplo True 0 0.429 
+exemplo True 0 0.429 
+zachary True 0 0.139 
+ponte True 2 1.167 
+ponte True 2 1.167 
+exemplo True 0 0.333 
+exemplo True 0 0.381 
+exemplo True 0 0.381 
+exemplo True 0 0.333 
+exemplo True 0 0.429 
+exemplo True 0 0.429 
+exemplo True 0 0.429 
+exemplo True 0 0.429 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+exemplo True 0 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
+ponte True 2 
